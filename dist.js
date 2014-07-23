@@ -1,0 +1,2 @@
+/* https://github.com/digitalinc/GoogleAnalyticsPixelCounter v1 */
+(function(a,b,c){try{var d=location.protocol+"//www.google-analytics.com/collect?v=1&t=pageview&cid="+Math.random()+"&tid="+c+"&dl="+b(a.location.href)+"&dr="+b(a.referrer)+"&dt="+b(a.title)+"&z=0";(new Image).src=d}catch(e){}})(document,encodeURIComponent,"UA-XXXXX-Y");
