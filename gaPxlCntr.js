@@ -7,7 +7,7 @@
 
 (function (document, encode, tid) {
 	try {
-		var src = (location.protocol +
+		var src = (document.location.protocol +
 			"//www.google-analytics.com/collect?v=1&t=pageview&cid=" + Math.random() +
 			"&tid=" + tid +
 			"&dl=" + encode(document.location.href) +
