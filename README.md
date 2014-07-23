@@ -1,5 +1,5 @@
-GoogleAnalyticsPixelCounter
-===========================
+DP6 Google Analytics Pixel Counter
+===================================
 
 Simple hit counter using Google Analyics and Measurement Protocol with pure Javascript.
 
